@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying Python and Java, majoring in Information Systems.<br><br>🤝 Looking for the first opportunity in the market as a Developer..
+🔭 Studying Python and Java, majoring in Information Systems.<br><br>🤝 Looking for the first opportunity in the market as a Developer.
 
 
 ## 🌐 Socials:
